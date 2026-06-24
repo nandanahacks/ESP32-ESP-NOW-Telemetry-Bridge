@@ -1,0 +1,23 @@
+# --- Arduino IDE Temporary Files ---
+=======
+# Build folders
+build/
+bin/
+
+# Compiled files
+*.o
+*.a
+*.so
+*.hex
+*.elf
+*.bin
+
+# Local project configurations/caches
+.vscode/
+.b4x/
+.atmelstart/
+*.swp
+*~
+
+# Hardware specific lock files
+.bspv/
